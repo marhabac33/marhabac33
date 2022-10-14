@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Marhaba. 
+I love tech 💻, coffee ☕ and nature 🌳
+
+
+
 <!--
 **marhabac33/marhabac33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
