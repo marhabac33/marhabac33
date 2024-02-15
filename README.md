@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Marhaba. 
+I am Marhaba, a software engineer. 
 I love tech 💻, coffee ☕ and nature 🌳
 
 
